@@ -1,5 +1,3 @@
-1
-
 text = input("Enter a number: ")
 
 if "-" in text:
@@ -13,6 +11,3 @@ else:
         print(n, "is even")
     else:
         print(n, "is odd")
-
-2
-
