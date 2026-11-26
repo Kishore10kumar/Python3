@@ -15,3 +15,8 @@ Sum of primes below 200 = 4227
 
 3.
 
+Enter n (number of elements): 3.1
+Invalid input! Enter digits only.
+
+Enter n (number of elements): 6
+0 1 1 2 3 5
