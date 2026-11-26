@@ -1,0 +1,18 @@
+1
+
+text = input("Enter a number: ")
+
+if "-" in text:
+    print("Negative number is not allowed!")
+elif not text.isdigit():
+    print("Invalid input! Enter digits only.")
+else:
+    n = int(text)
+
+    if n & 1 == 0:
+        print(n, "is even")
+    else:
+        print(n, "is odd")
+
+2
+
