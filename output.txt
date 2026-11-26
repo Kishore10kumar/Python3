@@ -1,0 +1,17 @@
+1.
+
+Enter a number: 21.82
+Invalid input! Enter digits only.
+
+Enter a number: 21
+21 is odd
+
+Enter a number: 2000
+2000 is even
+
+2.
+
+Sum of primes below 200 = 4227
+
+3.
+
